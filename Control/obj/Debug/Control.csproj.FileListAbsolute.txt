@@ -1,0 +1,24 @@
+c:\Users\odarf\source\repos\TTTester\Control\bin\Debug\Control.dll
+c:\Users\odarf\source\repos\TTTester\Control\bin\Debug\Control.pdb
+c:\Users\odarf\source\repos\TTTester\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+c:\Users\odarf\source\repos\TTTester\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+c:\Users\odarf\source\repos\TTTester\Control\obj\Debug\Control.dll
+c:\Users\odarf\source\repos\TTTester\Control\obj\Debug\Control.pdb
+C:\Users\Constantin\Desktop\TTTester\Control\bin\Debug\Control.dll
+C:\Users\Constantin\Desktop\TTTester\Control\bin\Debug\Control.pdb
+C:\Users\Constantin\Desktop\TTTester\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\Constantin\Desktop\TTTester\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\Constantin\Desktop\TTTester\Control\obj\Debug\Control.dll
+C:\Users\Constantin\Desktop\TTTester\Control\obj\Debug\Control.pdb
+C:\Users\madven\Desktop\музика\ПАПКА\1 kurs\C# 1kurs\TTTester\Control\bin\Debug\Control.dll
+C:\Users\madven\Desktop\музика\ПАПКА\1 kurs\C# 1kurs\TTTester\Control\bin\Debug\Control.pdb
+C:\Users\madven\Desktop\музика\ПАПКА\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\madven\Desktop\музика\ПАПКА\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\madven\Desktop\музика\ПАПКА\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.dll
+C:\Users\madven\Desktop\музика\ПАПКА\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.pdb
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\TTTester\Control\bin\Debug\Control.dll
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\TTTester\Control\bin\Debug\Control.pdb
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.dll
+D:\Users\madven\Documents\laptopWinBackup\ПАПКА\учёба\1 kurs\C# 1kurs\TTTester\Control\obj\Debug\Control.pdb
