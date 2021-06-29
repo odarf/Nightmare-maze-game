@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <answers>
+      <string>вопрос12</string>
+      <string>вопров22</string>
+      <string>вопрос32</string>
+      <string>вопрос42</string>
+    </answers>
+    <rightAnswerNumber>4</rightAnswerNumber>
+    <question>тест2</question>
+  </Questions>
+</ArrayOfQuestions>
